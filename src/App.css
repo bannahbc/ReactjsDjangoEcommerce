@@ -1,4 +1,14 @@
-.App {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* In src/index.css or App.css */
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +45,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
