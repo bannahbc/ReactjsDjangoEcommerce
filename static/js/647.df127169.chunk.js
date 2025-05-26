@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkecommercereactjs=self.webpackChunkecommercereactjs||[]).push([[647],{647:(e,n,r)=>{r.r(n),r.d(n,{default:()=>a});var c=r(855),t=r(579);const s=new c.F;function a(e){let{markdown:n}=e;return(0,t.jsx)("div",{className:"content",dangerouslySetInnerHTML:{__html:s.render(n)}})}}}]);
+//# sourceMappingURL=647.df127169.chunk.js.map
